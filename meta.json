@@ -1,0 +1,78 @@
+{
+  "bbox": [
+    20.9,
+    60.75,
+    22.35,
+    61.5
+  ],
+  "minzoom": 8,
+  "maxzoom": 15,
+  "layers": [
+    "water",
+    "waterway",
+    "landcover",
+    "rail",
+    "pier",
+    "buildings",
+    "roads",
+    "places"
+  ],
+  "fonts": [
+    "Noto Sans Regular",
+    "Noto Sans Medium",
+    "Noto Sans Italic"
+  ],
+  "sources": {
+    "roads": {
+      "name": "Digiroad K-aineisto (Väylävirasto)",
+      "licence": "CC BY 4.0",
+      "export": {
+        "SATAKUNTA_K.zip": "Export aloitettu: 10.09.2026 11:52:38",
+        "VARSINAIS-SUOMI_K.zip": "Export aloitettu: 10.09.2026 11:52:38",
+        "export_date.txt": "Export aloitettu: 10.09.2026 11:52:38"
+      }
+    },
+    "other": {
+      "name": "Maastotietokanta (Maanmittauslaitos)",
+      "licence": "CC BY 4.0",
+      "fetched": {
+        "meri": "2026-11-08",
+        "jarvi": "2026-11-08",
+        "virtavesialue": "2026-11-08",
+        "virtavesikapea": "2026-11-08",
+        "maatalousmaa": "2026-11-08",
+        "niitty": "2026-11-08",
+        "puisto": "2026-11-08",
+        "hautausmaa": "2026-11-08",
+        "urheilujavirkistysalue": "2026-11-08",
+        "suo": "2026-11-08",
+        "kallioalue": "2026-11-08",
+        "hietikko": "2026-11-08",
+        "taajaanrakennettualue": "2026-11-08",
+        "satamaalue": "2026-11-08",
+        "lentokenttaalue": "2026-11-08",
+        "varastoalue": "2026-11-08",
+        "autoliikennealue": "2026-11-08",
+        "kaatopaikka": "2026-11-08",
+        "maaaineksenottoalue": "2026-11-08",
+        "rautatie": "2026-11-08",
+        "pistolaituriviiva": "2026-11-08",
+        "aallonmurtaja": "2026-11-08",
+        "rakennus": "2026-11-08",
+        "paikannimi": "2026-11-08"
+      }
+    }
+  },
+  "attribution": "© Väylävirasto, Digiroad · © Maanmittauslaitos",
+  "features": {
+    "water": 982,
+    "waterway": 203814,
+    "landcover": 71047,
+    "rail": 364,
+    "pier": 284,
+    "buildings": 192272,
+    "roads": 93617,
+    "places": 15670
+  },
+  "built": "2026-11-08"
+}
