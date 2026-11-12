@@ -15,6 +15,7 @@
     "pier",
     "buildings",
     "roads",
+    "road_labels",
     "places"
   ],
   "fonts": [
@@ -72,7 +73,8 @@
     "pier": 284,
     "buildings": 192272,
     "roads": 95505,
+    "road_labels": 9866,
     "places": 15670
   },
-  "built": "2026-11-08"
+  "built": "2026-11-12"
 }
