@@ -1,0 +1,31 @@
+Rauman bussit – vektoritiilet
+Tekijänoikeus © 2025–2026 Aki Saurimaa. Kaikki oikeudet pidätetään.
+
+Tämän repon tiedostot on tuotettu Rauman bussit -palvelua varten
+(https://raumanbussit.azurewebsites.net), ja niitä saa käyttää vain osana sitä.
+
+Ilman tekijän kirjallista lupaa tiedostoja ei saa kopioida, jakaa edelleen,
+käyttää muissa palveluissa tai sovelluksissa eikä hakea automaattisesti, eikä
+niitä saa käyttää kaupallisesti tai yritysten, yhteisöjen tai julkisyhteisöjen
+toiminnassa.
+
+Lähdeaineistot
+Tiedostot on tuotettu seuraavista avoimista aineistoista. Ne ovat edelleen
+alkuperäisten lisenssiensä alaisia ja vapaasti saatavilla julkaisijoiltaan;
+nämä ehdot eivät rajoita niiden käyttöä, vaan koskevat vain tekijän tekemää
+käsittelyä ja tämän repon tiedostoja.
+  - © Väylävirasto, Digiroad 2/2026, CC BY 4.0
+  - © Maanmittauslaitos, Maastotietokanta, CC BY 4.0
+
+Poikkeus: fonts/-kansion Noto Sans -fontit ovat SIL Open Font License 1.1
+-lisenssin alaisia (fonts/OFL.txt), eivätkä nämä ehdot koske niitä.
+
+English summary
+Copyright © 2025–2026 Aki Saurimaa. All rights reserved. These files were
+produced for, and may only be used as part of, the Rauman bussit service.
+Copying, redistribution, use in other services or applications, automated
+harvesting, and any commercial or organisational use require the author's
+written permission. The source datasets listed above remain under their
+original licences and are freely available from their publishers; these terms
+cover only the author's processing and the files in this repository. The fonts
+in fonts/ are licensed under the SIL Open Font License 1.1.
